@@ -11,7 +11,7 @@
 # needs to be explicitly set to your local timezone.
 TIME_ZONE = 'America/Chicago'
 
-SECRET_KEY = '3aJyh8ejmVtuJRcuxVENS75aX6ut8e5G'
+SECRET_KEY = 'YOUR_SECRET_KEY'
 
 # Override this to provide documentation specific to your Graphite deployment
 #DOCUMENTATION_URL = "http://graphite.readthedocs.org/"
