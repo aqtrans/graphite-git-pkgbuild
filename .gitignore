@@ -7,3 +7,7 @@
 *.sig
 pkg/
 src/
+carbon/
+graphite/
+whisper/
+
