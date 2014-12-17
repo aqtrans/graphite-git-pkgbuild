@@ -1,7 +1,7 @@
 # Maintainer: Jordan Anderson <aq@es.gy>
 # Credit for updated PKGBUILD to: https://github.com/mulander/graphite-web-aur
 pkgname=graphite-git
-pkgver=20141213
+pkgver=20141216
 pkgrel=1
 pkgdesc="Graphite provides real-time graphing for monitoring purposes."
 url="http://www.graphite.wikidot.com"
